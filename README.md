@@ -5,7 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rubenstuiver" alt="rubenstuiver" /></a> </p>
 
-- 🔭 I’m currently working on [Menu.Me](https://github.com/nganguyenny/menu_me)
+- 👌 One of my finished projects is [Menu.Me](https://github.com/nganguyenny/menu_me)
+
+
+<h3 align="left">Current Interests:</h3>
+
+- 📈📊 I'm currently building a trading bot
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
